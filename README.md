@@ -85,17 +85,3 @@ Este projeto demonstra um sistema webhook para notificação de compra, utilizan
       ```bash
       python compra.py
       ```
-
-## Execução
-
-# Cliente de Compra:
-
-Simula uma compra, criptografa os dados e envia ao servidor intermediário.
-
-# Servidor Intermediário:
-
-Recebe e repassa os dados criptografados ao servidor de notificação.
-
-# Servidor de Notificação:
-
-Descriptografa os dados recebidos e exibe a mensagem formatada.
