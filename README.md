@@ -1,3 +1,7 @@
+# Participantes
+> Alexandre Henning Wahl
+> Felipe Porto Caldeira do Nascimento
+
 # WebSocket Chat com Criptografia RSA
 
 Este projeto demonstra um chat em tempo real utilizando WebSockets com mensagens criptografadas usando RSA.
